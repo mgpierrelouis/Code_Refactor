@@ -8,6 +8,8 @@ Here is a screenshot of the web page in browser:
 
 <img src= ./assets/images/webpagedemo.png alt="Screenshot of full webpage">
 
+[HERE](https://mgpierrelouis.github.io/May_01_HW/) is the link to the deployed webpage.
+
 
 
 
